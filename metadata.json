@@ -1,0 +1,5 @@
+{
+  "name": "UniVerse - Unicode Explorer",
+  "description": "The ultimate semantic Unicode companion for developers and designers. UniVerse leverages Gemini 2.5 Flash to discover characters by concept, inspect deep encoding details, and stylize text with mathematical alphanumerics—all in a modern, developer-centric interface.",
+  "requestFramePermissions": []
+}
